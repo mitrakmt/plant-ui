@@ -1,0 +1,12 @@
+.Signup {
+    min-height: 100vh;
+    width: 100%;
+
+    &-formContainer {
+        width: 350px;
+
+        &-input {
+            margin: 20px 0;
+        }
+    }
+}
